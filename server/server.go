@@ -14,13 +14,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jpillora/cloud-torrent/engine"
-	"github.com/jpillora/cloud-torrent/static"
-	"github.com/jpillora/cookieauth"
-	"github.com/jpillora/gziphandler"
-	"github.com/jpillora/requestlog"
-	"github.com/jpillora/scraper/scraper"
-	"github.com/jpillora/velox"
+	"github.com/Bonikowa13/boni3/engine"
+	"github.com/Bonikowa13/boni3static"
+	"github.com/Bonikowa13/cookieauth"
+	"github.com/Bonikowa13/gziphandler"
+	"github.com/Bonikowa13/requestlog"
+	"github.com/Bonikowa13/scraper/scraper"
+	"github.com/Bonikowa13/velox"
 	"github.com/skratchdot/open-golang/open"
 )
 
